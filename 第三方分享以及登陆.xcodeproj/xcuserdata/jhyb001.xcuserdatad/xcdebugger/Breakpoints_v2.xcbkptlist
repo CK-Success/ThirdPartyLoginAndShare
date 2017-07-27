@@ -10,43 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "&#x7b2c;&#x4e09;&#x65b9;&#x5206;&#x4eab;&#x4ee5;&#x53ca;&#x767b;&#x9646;/AppDelegate.m"
-            timestampString = "522321188.261056"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "97"
-            endingLineNumber = "97"
-            landmarkName = "-configUSharePlatforms"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "&#x7b2c;&#x4e09;&#x65b9;&#x5206;&#x4eab;&#x4ee5;&#x53ca;&#x767b;&#x9646;/AppDelegate.m"
             timestampString = "522321190.218407"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "85"
             endingLineNumber = "85"
-            landmarkName = "-configUSharePlatforms"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "&#x7b2c;&#x4e09;&#x65b9;&#x5206;&#x4eab;&#x4ee5;&#x53ca;&#x767b;&#x9646;/AppDelegate.m"
-            timestampString = "522560295.296917"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "69"
-            endingLineNumber = "69"
             landmarkName = "-configUSharePlatforms"
             landmarkType = "7">
          </BreakpointContent>

@@ -38,8 +38,7 @@
     NSMutableDictionary * dict=[[NSMutableDictionary alloc]init];
     
     
-    
-    
+        
     
     [thirdShare showBottomCircleView:BottomNormalType testType:UMS_SHARE_TYPE_TEXT_IMAGE dict:dict];
     
